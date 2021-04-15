@@ -2,6 +2,10 @@
 
 Image Classification done via pretrained models like InceptionNet and ResNet18,using Gradio framework.
 
+What is Gradio?
+
+Gradio is a customizable UI that is integrated with Tensorflow or Pytorch models. It is free and an open-source framework makes it readily available to anyone.
+
 Step 1:
 
 Installing Dependencies
